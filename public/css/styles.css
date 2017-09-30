@@ -1,5 +1,6 @@
 body {
 	/*font-family: 'Alfa Slab One', cursive;*/
+	background-color: gold;
 }
 
 .viewport-container {
@@ -19,11 +20,6 @@ body {
 	max-width: 100%;
 	margin: 20px auto 0px auto;
 }
-
-a{
-	
-}
-	
 
 
 /* Bootstrap 4 Media Queries */
