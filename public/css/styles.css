@@ -21,12 +21,24 @@ body {
 	margin: 20px auto 0px auto;
 }
 
-P:hover{
-	color: black;
+h1 {
+	text-align: center;
 }
+
+h2 {
+	text-align: center;
+
+}
+
+P:hover {
+	color: black;
+	background-color: white;
+}
+
 
 p {
 	color: gold;
+	text-align: center;
 }
 
 
