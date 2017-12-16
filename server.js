@@ -51,6 +51,6 @@ app.get('/about', function(req, res) {
 /* Launch Server */
 /*****************/
 app.listen(port, function () {
-	console.log(`Listening on port ${port}!`);
+	console.log(`Check your Browser it is Listening on port ${port}!`);
 });
 
